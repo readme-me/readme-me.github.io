@@ -8,7 +8,12 @@ ok so for contributing you need to follow a small format to help us organize the
 
 
 try to see what folder should your meme go under
-<insert currently existing folders here -shelf man>
+* [Gaming](/Gaming)
+* [hi-simy](/hi-simy)
+* [reactions](/reactions)
+* [relatable](/relatable)
+* [unorganized](/unorganized)
+* [what-the-fuck](/what-the-fuck)
 then make sure linking the image is easy
 
 then edit the readme.md and link your image 
