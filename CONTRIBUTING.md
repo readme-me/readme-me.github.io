@@ -24,7 +24,6 @@ _Change the number, directory and image name to point at the image you have adde
 | ------ | ------ |
 | Vintage Memes | [2015-was-a-cool-year](https://github.com/readme-me/readme-me.github.io/tree/main/2015-was-a-cool-year) |
 | Gaming Related | [Gaming](https://github.com/readme-me/readme-me.github.io/tree/main/gaming) |
-| say hi to simy | [hi-simy](https://github.com/readme-me/readme-me.github.io/tree/main/hi-simy) |
 | reactions | [reactions](https://github.com/readme-me/readme-me.github.io/tree/main/reactions)] |
 | me_irl | [relatable](https://github.com/readme-me/readme-me.github.io/tree/main/relatable) |
 | unorganized | [unorganized](https://github.com/readme-me/readme-me.github.io/tree/main/unorganized) |
