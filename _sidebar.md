@@ -1,7 +1,8 @@
-- [Cat Memes](#cats-cats-cats-cats-cats-cats-cats)
-- [I can relate](#relatable)
 - [mfw](#reactions)
-- [Are you winning, son?](#are-you-winning-son)
-- [Vintage](#vintage)
+- [I can relate](#relatable)
 - [Unorganized](#unorganized)
 - [I don't even know what the fuck those are supposed to be](#i-dont-even-know-what-the-fuck-these-are) 
+- [Cat Memes](#cats-cats-cats-cats-cats-cats-cats)
+- [Are you winning, son?](#are-you-winning-son)
+- [Vintage](#vintage)
+
