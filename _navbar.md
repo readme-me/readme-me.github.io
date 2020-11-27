@@ -1,7 +1,6 @@
-- [Cat Memes](#cats-cats-cats-cats-cats-cats-cats)
-- [I can relate](#relatable)
-- [mfw](#reactions)
-- [Are you winning, son?](#are-you-winning-son)
-- [Vintage](#vintage)
-- [Unorganized](#unorganized)
-- [I don't even know what the fuck those are supposed to be](#i-dont-even-know-what-the-fuck-these-are) 
+- [Issues](https://github.com/readme-me/readme-me.github.io/issues)
+- [Pull Requests](https://github.com/readme-me/readme-me.github.io/pulls)
+ - [Need help?](https://github.com/readme-me/readme-me.github.io/issues)
+- [How 2 add more](https://github.com/readme-me/readme-me.github.io/blob/main/CONTRIBUTING.md)
+  - [Join Discord](https://discord.gg/MytHgxYhgc)
+
