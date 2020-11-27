@@ -10,8 +10,10 @@
 - MAKE SURE THE NUMBER IS BIGGER THAN THE BIGGEST NUMBER IN THAT FOLDER
 - MAKE SURE THE NUMBER GETS BIGGER WITH **EVERY SINGLE FILE** THAT YOU UPLOAD (1.jpg > 2.jpg > 3.png > 4.gif etc.)
 - Navigate to readme.md and add your memes under the correct title with an image hyperlink that looks like
+ - (latest changes made it easier to link images)
+ 
 ```
-![1](https://github.com/readme-me/readme-me.github.io/blob/main/reactions/1.jpg)
+!<p><img src="reactions/1.png" alt="">)
 ```
 _Change the number, directory and image name to point at the image you have added. Repeat this for each file using correct file extensions and names._
 
@@ -24,9 +26,10 @@ _Change the number, directory and image name to point at the image you have adde
 | ------ | ------ |
 | Vintage Memes | [2015-was-a-cool-year](https://github.com/readme-me/readme-me.github.io/tree/main/2015-was-a-cool-year) |
 | Gaming Related | [Gaming](https://github.com/readme-me/readme-me.github.io/tree/main/gaming) |
-| reactions | [reactions](https://github.com/readme-me/readme-me.github.io/tree/main/reactions)] |
+| reactions | [reactions](https://github.com/readme-me/readme-me.github.io/tree/main/reactions) |
 | me_irl | [relatable](https://github.com/readme-me/readme-me.github.io/tree/main/relatable) |
 | unorganized | [unorganized](https://github.com/readme-me/readme-me.github.io/tree/main/unorganized) |
+| cats | [unorganized](https://github.com/readme-me/readme-me.github.io/tree/main/cats-cats-cats) |
 | i dont even know  | [what-the-fuck](https://github.com/readme-me/readme-me.github.io/tree/main/what-the-fuck) |
 
 # Submitting
