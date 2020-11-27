@@ -7,7 +7,7 @@
 <li><a href="#cats-cats-cats-cats-cats-cats-cats">cats cats cats cats</a></li>
 <li><a href="#relatable">me_irl</a></li>
 <li><a href="#reactions">mfw</a></li>
-<li><a href="#are-you-winning-son-">are you winning son</a></li>
+<li><a href="#are-you-winning-son">are you winning son</a></li>
 <li><a href="#vintage">vintage</a></li>
 <li><a href="#unorganized">unorganized</a></li>
 <li><a href="#i-dont-even-know-what-the-fuck-these-are">i dont even know what the fuck those are</a></li>
@@ -82,7 +82,7 @@
 <img src="cats-cats-cats/15.jpg" alt="">
 <img src="cats-cats-cats/16.jpg" alt="">
 <img src="cats-cats-cats/17.gif" alt=""></p>
-<h3 id="are-you-winning-son-">are you winning son?</h3>
+<h3 id="are-you-winning-son">are you winning son?</h3>
 <p><img src="gaming/1.jpg" alt=""></p>
 <h3 id="vintage">vintage</h3>
 <p><img src="2015-was-a-cool-year/1.png" alt="">
