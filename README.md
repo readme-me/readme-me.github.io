@@ -46,7 +46,8 @@
 <img src="relatable/10.jpg" alt="">
 <img src="relatable/11.jpg" alt="">
 <img src="relatable/12.jpg" alt="">
-<img src="relatable/13.jpg" alt=""></p>
+<img src="relatable/13.jpg" alt="">
+<img src="relatable/14.jpg" alt=""></p>
 <h3 id="unorganized">unorganized</h3>
 <p><img src="unorganized/1.gif" alt="">
 <img src="unorganized/2.jpg" alt="">
@@ -85,7 +86,8 @@
 <img src="cats-cats-cats/16.jpg" alt="">
 <img src="cats-cats-cats/17.gif" alt=""></p>
 <h3 id="are-you-winning-son">are you winning son?</h3>
-<p><img src="gaming/1.jpg" alt=""></p>
+<p><img src="gaming/1.jpg" alt="">
+<p><img src="gaming/2.jpg" alt=""></p>
 <h3 id="vintage">vintage</h3>
 <p><img src="2015-was-a-cool-year/1.png" alt="">
 <img src="2015-was-a-cool-year/2.jpg" alt="">
