@@ -7,8 +7,3 @@
 - Convenient
 - Only the best memes
 - No redditors.
-
-[Quickstart](#quickstart-and-demo-click-the-image)
-[Discord](https://discord.gg/B84356MFSg)
-
-
