@@ -1,5 +1,5 @@
+<hr>
 <img src="_media/oat.jpg" alt="">
-
 <h1 id="ok-now-if-you-look-at-this-you-will-find-a-lot-of-extremely-funny-trademark-memes">ok yes hi welcome to the ultimate meme repository™ im very glad that you took your time to look at this mess, i did my best to collect the best memes i could find and since this is a github repo you can add MORE MEMES yea. warning: memes can be extremely funny, laugh at your own risk</h1>
 <h6 id="laugh-now-or-suffer">laugh now or suffer</h6>
 <hr>
