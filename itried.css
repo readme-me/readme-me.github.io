@@ -1,0 +1,14 @@
+.cover-main {
+    font-size: 1.3rem;
+    color: #ffffff;
+}
+
+p:last-child {
+    font-weight: 1000;
+}
+
+:root {
+    --theme-hue: 215;
+    --cover-blockquote-color: #8c9eff;
+    --base-font-family: Lato;
+    --cover-background-image: url(linkgoeshere);
