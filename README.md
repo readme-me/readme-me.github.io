@@ -1,7 +1,7 @@
 # ok now if you look at this you will find a lot of extremely funny (trademark) memes
 ###### laugh now or suffer
 
-![1](reactions/1.jpg)
+![1](reactions/1.png)
 ![2](reactions/2.jpg)
 ![3](reactions/3.jpg)
 ![4](reactions/4.png)
