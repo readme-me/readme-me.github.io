@@ -4,17 +4,16 @@
 <h6 id="laugh-now-or-suffer">laugh now or suffer</h6>
 <hr>
 
-<details>
-<ul>
-<li><a href="#cats-cats-cats-cats-cats-cats-cats">cats cats cats cats</a></li>
-<li><a href="#relatable">me_irl</a></li>
-<li><a href="#reactions">mfw</a></li>
-<li><a href="#are-you-winning-son">are you winning son</a></li>
-<li><a href="#vintage">vintage</a></li>
-<li><a href="#unorganized">unorganized</a></li>
-<li><a href="#i-dont-even-know-what-the-fuck-these-are">i dont even know what the fuck those are</a></li>
-</ul>
-  </details>
+<details><ul>
+<li><a href="#cats-cats-cats-cats-cats-cats-cats">cats cats cats cats</a> </li>
+<li><a href="#relatable">me_irl</a> </li>
+<li><a href="#reactions">mfw</a> </li>
+<li><a href="#are-you-winning-son">are you winning son</a> </li>
+<li><a href="#vintage">vintage</a> </li>
+<li><a href="#unorganized">unorganized</a> </li>
+<li><a href="#i-dont-even-know-what-the-fuck-these-are">i dont even know what the fuck those are</a></details></li>
+</ul></details>
+
 <h3 id="reactions">reactions</h3>
 <p><img src="reactions/1.png" alt="">
 <img src="reactions/2.jpg" alt="">
