@@ -40,6 +40,7 @@
 <img src="relatable/14.jpg" alt="">
 <img src="relatable/15.jpg" alt="">
 <img src="relatable/16.jpg" alt="">
+<img src="relatable/17.png alt="">
 </p>
 <h3 id="unorganized">unorganized</h3>
 <p><img src="unorganized/1.gif" alt="">
