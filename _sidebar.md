@@ -1,7 +1,5 @@
-## Click the links below to 
-## instantly teleport to the category 
-## you want to be in. 
-#### Nothing personel kid
+
+#### Click to navigate
 
 - [**mfw**](#reactions)
 - [**I can relate**](#relatable)
