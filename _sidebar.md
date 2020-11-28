@@ -1,3 +1,5 @@
+## Click the links below to instantly teleport to the category you want to be in, nothing personel kid
+
 - [mfw](#reactions)
 - [I can relate](#relatable)
 - [Unorganized](#unorganized)
